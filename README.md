@@ -2,6 +2,7 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Dalmi Borba.</h1>
 
 - 🔥 Impassioned by technology.
+-    Developer Javascript.
 
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
 
