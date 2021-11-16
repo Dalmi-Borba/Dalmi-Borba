@@ -22,7 +22,7 @@
 
 <br><br>
 
-##❤️ &nbsp;Hobbies and interests
+## ❤️ &nbsp;Hobbies and interests
 
 - ⚙️ Arduino, esp...
 - 🔭 Astronomy
