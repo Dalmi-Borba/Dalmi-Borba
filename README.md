@@ -34,7 +34,7 @@
 <br><br>
 
 ## 🖧 &nbsp; Contact
--
+- linkedin.com/in/dalmi-borba-268329220
 
 
 
