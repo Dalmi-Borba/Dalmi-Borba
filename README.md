@@ -29,7 +29,6 @@
 ## ❤️ &nbsp;Hobbies and interests
 
 - ⚙️ Arduino, esp...
-- 🔭 Astronomy
 
 <br><br>
 
