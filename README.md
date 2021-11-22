@@ -34,6 +34,11 @@
 
 ## 🖧 &nbsp; Contact
 - <a>https://www.linkedin.com/in/dalmi-borba-268329220/</a>
+<br>
+ <a href="https://www.linkedin.com/in/gabriel-brotas" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="noopener noreferrer">
+  </a>
+<br>
    <a href="https://www.instagram.com/gbrottas/" target="_blank" rel="noopener noreferrer">
      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" rel="noopener noreferrer"/> 
   </a>
