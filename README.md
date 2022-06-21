@@ -1,4 +1,3 @@
-<img align="right" height="590em" src="https://gist.githubusercontent.com/Dalmi-Borba/071aad2b7602f23a5f79b75a7e890a80/raw/b70c244ab3a71b38b934db354090a8272fa1f7eb/githubcard.svg"/>
 <h1 align="left">Hi, I'm Dalmi Borba.</h1>
 
 - 🔥 Impassioned by technology.
