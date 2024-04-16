@@ -27,7 +27,7 @@
 
 ## ❤️ &nbsp;Hobbies and interests
 
-- ⚙️ Arduino, esp...
+- ⚙️ Arduino, esp, electronics.
 
 <br><br>
 
